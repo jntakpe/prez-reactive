@@ -1,0 +1,24 @@
+{
+  "name": "reactive",
+  "version": "3.9.2",
+  "main": [
+    "js/reveal.js",
+    "css/reveal.css"
+  ],
+  "homepage": "https://jntakpe.github.io/reactive",
+  "license": "MIT",
+  "description": "DxP reactive presentation",
+  "authors": [
+    "Jocelyn N'TAKPE <jocelyn.ntakpe@soprabanking.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@innersource.soprasteria.com:dxp/training/presentations/reactive.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
